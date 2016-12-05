@@ -1,0 +1,10 @@
+.mc-lists.el
+.recentf
+.smex-items
+cider-history
+ido.last
+network-security.data
+places
+projectile-bookmarks.eld
+elpa/
+themes/
