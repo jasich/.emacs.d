@@ -141,7 +141,7 @@
  '(menu-bar-mode nil)
  '(package-selected-packages
    (quote
-    (yaml-mode all-the-icons all-the-icons-dired coffee-mode multiple-cursors web-mode tagedit smex scss-mode rainbow-delimiters projectile paredit neotree magit json-mode js2-mode ido-ubiquitous haml-mode flycheck exec-path-from-shell company clojure-mode-extra-font-locking cider-decompile)))
+    (rspec-mode smooth-scrolling flx-isearch flx-ido eruby-mode yaml-mode all-the-icons all-the-icons-dired coffee-mode multiple-cursors web-mode tagedit smex scss-mode rainbow-delimiters projectile paredit neotree magit json-mode js2-mode ido-ubiquitous haml-mode flycheck exec-path-from-shell company clojure-mode-extra-font-locking cider-decompile)))
  '(show-paren-mode t)
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
